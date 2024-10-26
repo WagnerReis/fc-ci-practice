@@ -36,4 +36,4 @@ jobs:
         with:
           context: .
           push: true
-          tags: wagnerreis/fc-ci-practice:latest
+          tags: wagnerreissilva/fc-ci-practice:latest
